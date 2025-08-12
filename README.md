@@ -106,12 +106,6 @@ CastlingInfo
 
         Game-over messages
 
-📌 Example Screenshot
-
-    You can add an image here for visual context:
-
-![Chess GUI Screenshot](assets/screenshot.png)
-
 ✅ TODO / Possible Improvements
 
     Add pawn promotion choice (Q, R, B, N).
