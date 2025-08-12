@@ -108,10 +108,6 @@ CastlingInfo
 
 ✅ TODO / Possible Improvements
 
-    Add pawn promotion choice (Q, R, B, N).
-
-    Add move history panel.
-
     Support for move timers or multiplayer over network.
 
     AI opponent using Minimax or Neural Networks.
